@@ -1,17 +1,7 @@
-CTYPE HTML>
-<html>
-
-<body>
-
-  <p>Before the script...</p>
-
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-
-  <p>...After the script.</p>
-
-</body>
-
-</html>
+public class HelloWorld {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, World");
+   }
+}
 
